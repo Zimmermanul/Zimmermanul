@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/maxim-khabibullin-ab8983191/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Maksim Khabibullin" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My stack:</h3>
 <p align="left"> 
   <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/java.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="imgForReadme/Intelij_IDEA.svg" alt="azure" width="40" height="40"/> </a>
