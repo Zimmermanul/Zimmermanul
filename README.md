@@ -13,6 +13,11 @@
 
 - 📄 Know about my experiences - you can **request me for CV** by email
 
+<h3 align="left">Project examples:</h3>
+* WEB UI automated testing: https://github.com/
+* API testing with Rest assured: https://github.com/
+* Mobile testing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/avadhutabrahman" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Maksim Khabibullin" height="30" width="30" /></a>
