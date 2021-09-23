@@ -1,6 +1,6 @@
-<h3 align="left">Hello :handshake:</h3>
+<h3 align="left">Hello :raised_hand_with_fingers_splayed:</h3>
 <p align="left"> I'm a QA Automation Engineer :robot:
-Glad to see you on my page :sparkling_heart:</p>
+Glad to see you on my page! </p>
 
 
 <h3 align="left">My project examples:</h3>
