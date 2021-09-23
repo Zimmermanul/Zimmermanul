@@ -37,6 +37,6 @@
   <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img src="imgForReadme/Jira.svg" alt="azure" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neupokoev&theme=vue&show_icons=true&locale=en&layout=normal" alt="neupokoev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhabibullin&theme=buefy&show_icons=true&locale=en&layout=normal" alt="mhabibullin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhabibullin&theme=buefy&show_icons=true&locale=en" alt="mhabibullin" /></p>
