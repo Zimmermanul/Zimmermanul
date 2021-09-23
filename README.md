@@ -19,11 +19,24 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/java.svg" alt="azure" width="40" height="40"/> </a> <a href="https://selenide.org/" target="_blank"> <img src="imgForReadme/selenide.svg" alt="azure" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://selenide.org/" target="_blank"> <img src="imgForReadme/Intelij_IDEA.svg" alt="azure" width="40" height="40"/> </a> </p>
+  <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/java.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://selenide.org/" target="_blank"> <img src="imgForReadme/Selenium.svg" alt="azure" width="40" height="40"/> </a> </p
+  <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/Selenide.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://selenide.org/" target="_blank"> <img src="imgForReadme/Selenoid.svg" alt="azure" width="40" height="40"/> </a> </p>
+  <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/Allure_Report.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://selenide.org/" target="_blank"> <img src="imgForReadme/Allure_EE.svg" alt="azure" width="40" height="40"/> </a> </p>
+  <a href="https://selenide.org/" target="_blank"> <img src="imgForReadme/Gradle.svg" alt="azure" width="40" height="40"/> </a> </p>
+  <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/JUnit5.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://selenide.org/" target="_blank"> <img src="imgForReadme/Jenkins.svg" alt="azure" width="40" height="40"/> </a> </p
+  <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/Docker.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://selenide.org/" target="_blank"> <img src="imgForReadme/Rest-Assured.svg" alt="azure" width="40" height="40"/> </a> </p>
+  <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/Appium.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/Browserstack.svg" alt="azure" width="40" height="40"/> </a> 
+  <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/Jira.svg" alt="azure" width="40" height="40"/> </a> 
+> 
 
-Java | Selenide | Rest-Assured | JUnit5 | IntelliJ IDEA | Gradle | GitHub | Jenkins | Selenoid | Allure
-
-<img src="imgForReadme/java.svg" width="40" height="40"> | <img src="imgForReadme/selenide.svg" width="40" height="40"> | <img src="imgForReadme/restassured.svg" width="40" height="40"> | <img src="imgForReadme/junit5.svg" width="40" height="40"> | <img src="imgForReadme/intellij_idea.svg" width="40" height="40"> | <img src="imgForReadme/gradle.svg" width="40" height="40"> | <img src="imgForReadme/github.svg" width="40" height="40"> |<img src="imgForReadme/jenkins.svg" width="40" height="40"> | <img src="imgForReadme/selenoid.svg" width="40" height="40"> | <img src="imgForReadme/allure.svg" width="40" height="40">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neupokoev&theme=vue&show_icons=true&locale=en&layout=normal" alt="neupokoev" /></p>
 
