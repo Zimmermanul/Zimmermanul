@@ -1,4 +1,4 @@
-<h3 align="left">Hi there</h3>
+<h3 align="left">Hello :handshake:</h3>
 <p align="left"> I'm a QA Automation Engineer :robot:
 Glad to see you on my page :sparkling_heart:</p>
 
