@@ -1,5 +1,6 @@
-<h2 align="center">Hi, I'm Maksim Khabibullin</h2>
-<h3 align="center">A passionate AQA Engineer from hot Siberia!</h3>
+<h2 align="center">Hi there</h2>
+<h3 align="center">I'm a QA Automation Engineer :robot:</h3>
+<h3 align="center">Glad to see you on my page :sparkling_heart:</h3>
 
 
 <h3 align="left">My project examples:</h3>
