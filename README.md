@@ -36,4 +36,4 @@
   <a href="https://www.browserstack.com/" target="_blank"> <img src="imgForReadme/Browserstack.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img src="imgForReadme/Jira.svg" alt="azure" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhabibullin&theme=solarized-light&show_icons=true&locale=en" alt="mhabibullin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhabibullin&theme=flag-india&show_icons=true&locale=en" alt="mhabibullin" /></p>
