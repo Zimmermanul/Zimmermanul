@@ -14,11 +14,13 @@
 - 📄 Know about my experiences - you can **request me for CV** by email
 
 <h3 align="left">Project examples:</h3>
+<p align="left">
 :white_check_mark: WEB UI automated testing: https://github.com/
 
 :white_check_mark: API testing with Rest assured: https://github.com/
 
 :white_check_mark: Mobile testing: https://github.com/
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
