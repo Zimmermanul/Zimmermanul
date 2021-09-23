@@ -15,7 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/neoupokoev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neoupokoev" height="30" width="40" /></a>
+<a href="https://t.me/avadhutabrahman" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Maksim Khabibullin" height="30" width="30" /></a>
+<a href="https://vk.com/avadhutabrahman" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="Maksim Khabibullin" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
