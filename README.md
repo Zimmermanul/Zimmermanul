@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences - you can **request me for CV** by email
 
-<h3 align="left">Project examples:</h3>
+<h3 align="left">My project examples:</h3>
 <p align="left">
 :white_check_mark: WEB UI automated testing: https://github.com/
 
