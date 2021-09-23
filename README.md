@@ -31,9 +31,9 @@
   <a href="https://www.browserstack.com/" target="_blank"> <img src="imgForReadme/Browserstack.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img src="imgForReadme/Jira.svg" alt="azure" width="40" height="40"/> </a> </p>
   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhabibullin&theme=default&show_icons=true&locale=en" alt="mhabibullin" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/avadhutabrahman" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Maksim Khabibullin" height="30" width="30" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhabibullin&theme=default&show_icons=true&locale=en" alt="mhabibullin" /></p>
