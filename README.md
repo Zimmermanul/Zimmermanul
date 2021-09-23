@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neupokoev&theme=vue&show_icons=true&locale=en&layout=normal" alt="neupokoev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neupokoev&theme=vue&show_icons=true&locale=en" alt="neupokoev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhabibullin&theme=buefy&show_icons=true&locale=en" alt="mhabibullin" /></p>
