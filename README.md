@@ -1,5 +1,5 @@
 <h3 align="left">Hello :raised_hand_with_fingers_splayed:</h3>
-<p align="left"> I'm a QA Automation Engineer from the Urals :mountain_snow:
+<p align="left"> I'm a QA Automation Engineer from the Ural :mountain_snow:
 Glad to see you on my page! </p>
 
 
