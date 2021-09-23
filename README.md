@@ -18,7 +18,7 @@
 
 :white_check_mark: API testing with Rest assured: https://github.com/
 
-:white_check_mark: Mobile testing
+:white_check_mark: Mobile testing: https://github.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
