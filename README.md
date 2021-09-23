@@ -1,17 +1,6 @@
-<h1 align="center">Hi :sparkling_heart:, I'm Maksim Khabibullin</h1>
+<h2 align="center">Hi, I'm Maksim Khabibullin</h2>
 <h3 align="center">A passionate AQA Engineer from hot Siberia!</h3>
 
-- :trophy: I'm an Expert with more than **15 years experience in Testing** in different positions and roles
-
-- :mortar_board: I have a **Master's Degree in Applied Mathematics**
-
-- :snowflake: I’m currently working remotely in **the best international company** 
-
-- 🌱 I’m currently learning **Automation tools and practices with QA.guru**
-
-- 📫 How to reach me: **neo[at]academ.org**
-
-- 📄 Know about my experiences - you can **request me for CV** by email
 
 <h3 align="left">My project examples:</h3>
 <p align="left">
