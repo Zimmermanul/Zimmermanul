@@ -1,16 +1,6 @@
 <h3 align="left">Hello :raised_hand_with_fingers_splayed:</h3>
-<p align="left"> I'm a QA Automation Engineer	:astronaut:
-Glad to see you on my page! </p>
+<p align="left"> I'm a QA Automation Engineer	:astronaut: </p>
 
-
-<h3 align="left">My project examples:</h3>
-<p align="left">
-:white_check_mark: WEB UI automated testing: https://github.com/
-
-:white_check_mark: API testing with Rest assured: https://github.com/
-
-:white_check_mark: Mobile testing: https://github.com/
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,11 +20,8 @@ Glad to see you on my page! </p>
   <a href="http://allure.qatools.ru/" target="_blank"> <img src="imgForReadme/Allure_Report.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://qameta.io/" target="_blank"> <img src="imgForReadme/Allure_EE.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://aerokube.com/selenoid/" target="_blank"> <img src="imgForReadme/Selenoid.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="imgForReadme/Docker.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://rest-assured.io/" target="_blank"> <img src="imgForReadme/Rest-Assured.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://appium.io/" target="_blank"> <img src="imgForReadme/Appium.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://www.browserstack.com/" target="_blank"> <img src="imgForReadme/Browserstack.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img src="imgForReadme/Jira.svg" alt="azure" width="40" height="40"/> </a> </p>
+
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhabibullin&theme=default&show_icons=true&locale=en" alt="mhabibullin" /></p>
 
