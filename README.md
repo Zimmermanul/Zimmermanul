@@ -3,11 +3,14 @@
 
 <h3 align="left">My project examples:</h3>
 <p align="left">
-:white_check_mark: WEB UI automated testing: https://github.com/Mhabibullin/Ubrr_tests
-https://github.com/Mhabibullin/automation-practice-form-test
-:white_check_mark: API testing with Rest assured: https://github.com/Mhabibullin/RestApi_test_examples
+WEB UI automated testing: 
+:white_check_mark: https://github.com/Mhabibullin/Ubrr_tests
+:white_check_mark: https://github.com/Mhabibullin/automation-practice-form-test
+  
+API testing with Rest assured:
+:white_check_mark: https://github.com/Mhabibullin/RestApi_test_examples
 
-:white_check_mark: Mobile testing: in progress
+Mobile testing: in progress
 </p>
 
 <h3 align="left">Connect with me:</h3>
