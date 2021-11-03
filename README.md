@@ -5,7 +5,7 @@
 <p align="left">
 :white_check_mark: WEB UI automated testing: </p>
 <p align="left"> https://github.com/Mhabibullin/Ubrr_tests </p>
-<p align="left"> https://github.com/Mhabibullin/automation-practice-form-test </p>
+<p align="left"> https://github.com/Mhabibullin/Automation-practice-form-test </p>
   
 :white_check_mark: API testing with Rest assured:
 <p align="left"> https://github.com/Mhabibullin/RestApi_test_examples </p>
