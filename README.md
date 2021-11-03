@@ -3,12 +3,12 @@
 
 <h3 align="left">My project examples:</h3>
 <p align="left">
-WEB UI automated testing: 
-:white_check_mark: https://github.com/Mhabibullin/Ubrr_tests
-:white_check_mark: https://github.com/Mhabibullin/automation-practice-form-test
+WEB UI automated testing: </p>
+<p align="left"> :white_check_mark: https://github.com/Mhabibullin/Ubrr_tests </p>
+<p align="left"> :white_check_mark: https://github.com/Mhabibullin/automation-practice-form-test </p>
   
 API testing with Rest assured:
-:white_check_mark: https://github.com/Mhabibullin/RestApi_test_examples
+<p align="left"> :white_check_mark: https://github.com/Mhabibullin/RestApi_test_examples </p>
 
 Mobile testing: in progress
 </p>
