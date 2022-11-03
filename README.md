@@ -10,7 +10,6 @@
 :white_check_mark: API testing with Rest assured:
 <p align="left"> https://github.com/Mhabibullin/RestApi_test_examples </p>
 
-:white_check_mark: Mobile testing: in progress
 </p>
 
 <h3 align="left">Connect with me:</h3>
