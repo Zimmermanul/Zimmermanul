@@ -1,5 +1,5 @@
 <h3 align="left">Hello :raised_hand_with_fingers_splayed:</h3>
-<p align="left"> I'm a QA Automation Engineer	:astronaut: </p>
+<p align="left"> I'm a Test Automation Engineer	:astronaut: </p>
 
 <h3 align="left">My project examples:</h3>
 <p align="left">
