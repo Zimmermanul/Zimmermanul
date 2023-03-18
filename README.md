@@ -1,4 +1,4 @@
-<h3 align="left">Hello :raised_hand_with_fingers_splayed:</h3>
+<h3 align="left">Hi there :raised_hand_with_fingers_splayed:</h3>
 <p align="left"> I'm a Test Automation Engineer	:astronaut: </p>
 
 <h3 align="left">My project examples:</h3>
