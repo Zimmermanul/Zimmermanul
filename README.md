@@ -1,13 +1,10 @@
 <h3 align="left">Hi there :raised_hand_with_fingers_splayed:</h3>
 <p align="left"> I'm a Test Automation Engineer	:astronaut: </p>
 
-<h3 align="left">My project examples:</h3>
+<h3 align="left">Check out my project examples:</h3>
 <p align="left">
-:white_check_mark: WEB UI automated testing: </p>
 <p align="left"> https://github.com/Mhabibullin/Ubrr_tests </p>
 <p align="left"> https://github.com/Mhabibullin/Automation-practice-form-test </p>
-  
-:white_check_mark: API testing with Rest assured:
 <p align="left"> https://github.com/Mhabibullin/RestApi_test_examples </p>
 
 </p>
