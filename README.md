@@ -3,7 +3,7 @@
 
 <h3 align="left">Check out my project examples:</h3>
 <p align="left">
-<p align="left"> [https://github.com/Mhabibullin/Ubrr_tests](https://github.com/Mhabibullin/Allure-GitLab-API-Integration-for-Auto-closing-Defects) </p>
+<p align="left"> https://github.com/Mhabibullin/Allure-GitLab-API-Integration-for-Auto-closing-Defects </p>
 <p align="left"> https://github.com/Mhabibullin/Ubrr_tests </p>
 <p align="left"> https://github.com/Mhabibullin/Automation-practice-form-test </p>
 <p align="left"> https://github.com/Mhabibullin/RestApi_test_examples </p>
