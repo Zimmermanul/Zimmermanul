@@ -5,9 +5,8 @@
 <p align="left">
 <p align="left"> https://github.com/Mhabibullin/Allure-GitLab-API-Integration-for-Auto-closing-Defects </p>
 <p align="left"> https://github.com/Mhabibullin/Ubrr_tests </p>
+<p align="left"> https://github.com/Mhabibullin/Restassured_test_examples </p>
 <p align="left"> https://github.com/Mhabibullin/Automation-practice-form-test </p>
-<p align="left"> https://github.com/Mhabibullin/RestApi_test_examples </p>
-
 </p>
 
 <h3 align="left">My stack:</h3>
