@@ -3,10 +3,10 @@
 
 <h3 align="left">Check out my project examples:</h3>
 <p align="left">
-<p align="left"> https://github.com/Mhabibullin/Allure-GitLab-API-Integration-for-Auto-closing-Defects </p>
-<p align="left"> https://github.com/Mhabibullin/Ubrr_tests </p>
-<p align="left"> https://github.com/Mhabibullin/Restassured_test_examples </p>
-<p align="left"> https://github.com/Mhabibullin/Automation-practice-form-test </p>
+<p align="left"> https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects </p>
+<p align="left"> https://github.com/Zimmermanul/Ubrr_tests </p>
+<p align="left"> https://github.com/Zimmermanul/Restassured_test_examples </p>
+<p align="left"> https://github.com/Zimmermanul/Automation-practice-form-test </p>
 </p>
 
 <h3 align="left">My stack:</h3>
@@ -28,6 +28,6 @@
 <h3 align="left">My contact details:</h3>
 <p align="left">
 <a href="https://t.me/avadhutabrahman" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Maksim Khabibullin" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/maxim-khabibullin-ab8983191/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Maksim Khabibullin" height="30" width="30" /></a>
+</a>
 </p>
 
