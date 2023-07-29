@@ -4,11 +4,12 @@
 <h3 align="left">Check out my project examples:</h3>
 <p align="left">
 [Allure GitLab API Integration for Auto closing Defects](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects/)
+[Allure GitLab API Integration for Auto closing Defects](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects)
 [Java web tests with multithread remote execution, notifications and reports](https://github.com/Zimmermanul/Java-web-tests-with-multithread-remote-execution-notifications-and-reports/)
 [Java api tests with rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
   [I'm an inline-style link](https://www.google.com)
 
-[Allure GitLab API Integration for Auto closing Defects](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects)
+
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
