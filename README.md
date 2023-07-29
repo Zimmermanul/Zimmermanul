@@ -3,10 +3,9 @@
 
 <h3 align="left">Check out my project examples:</h3>
 <p align="left">
-<p align="left"> https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects </p>
-<p align="left"> https://github.com/Zimmermanul/Ubrr_tests </p>
-<p align="left"> https://github.com/Zimmermanul/Restassured_test_examples </p>
-<p align="left"> https://github.com/Zimmermanul/Automation-practice-form-test </p>
+<p align="left"> [Allure GitLab API Integration for Auto closing Defects] https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects </p>
+<p align="left"> [Java web tests with multithread remote execution, notifications and reports](https://github.com/Zimmermanul/Java-web-tests-with-multithread-remote-execution-notifications-and-reports) </p>
+<p align="left"> [Java api tests with rest-assured] https://github.com/Zimmermanul/Restassured_test_examples </p>
 </p>
 
 <h3 align="left">My stack:</h3>
