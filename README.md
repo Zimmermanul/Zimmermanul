@@ -11,6 +11,8 @@
 
 :white_check_mark: [Java Api tests on Rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Contact me:</h3>
 
 ![Telegram](https://t.me/avadhutabrahman)https://t.me/avadhutabrahman)
