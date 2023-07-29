@@ -11,7 +11,9 @@
 
 :white_check_mark: [Java Api tests on Rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
 
-
+<h3 align="left">Contact me:</h3>
+<a href="https://t.me/avadhutabrahman" target="_blank"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a> 
+/*
 <h3 align="left">My stack:</h3>
 <p align="left"> 
   <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/java.svg" alt="azure" width="40" height="40"/> </a> 
@@ -26,4 +28,4 @@
   <a href="https://rest-assured.io/" target="_blank"> <img src="imgForReadme/Rest-Assured.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="imgForReadme/Docker.svg" alt="azure" width="40" height="40"/> </a> 
 </p>
-
+*/
