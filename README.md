@@ -9,7 +9,7 @@
 
 :white_check_mark: [Java Web tests with multithread remote execution, notifications and reports](https://github.com/Zimmermanul/Java-web-tests-with-multithread-remote-execution-notifications-and-reports/)
 
-:white_check_mark: [Java Api tests on Rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)javascript:void(0);
+:white_check_mark: [Java Api tests on Rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
 
 <h3 align="left">Contact me:</h3>
 
