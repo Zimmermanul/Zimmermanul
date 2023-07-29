@@ -12,4 +12,6 @@
 :white_check_mark: [Java Api tests on Rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
 
 <h3 align="left">Contact me:</h3>
-<a href="https://t.me/avadhutabrahman" target="_blank"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a> 
+
+<a href="https://t.me/avadhutabrahman" target="_blank"> </a> 
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
