@@ -9,10 +9,8 @@
 
 :white_check_mark: [Java Web tests with multithread remote execution, notifications and reports](https://github.com/Zimmermanul/Java-web-tests-with-multithread-remote-execution-notifications-and-reports/)
 
-:white_check_mark: [Java Api tests on Rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
-
-<a href="https://github.com/Zimmermanul/Restassured_test_examples/"><img width="250" title="Java Api tests on Rest-assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Zimmermanul&repo=Restassured_test_examples&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="mobile-browserstack"></a>
+:white_check_mark: [Java Api tests on Rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)javascript:void(0);
 
 <h3 align="left">Contact me:</h3>
 
-![Telegram](https://t.me/avadhutabrahman)https://t.me/avadhutabrahman)
+[<img title="Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/avadhutabrahman)
