@@ -11,7 +11,7 @@
 
 :white_check_mark: [Java Api tests on Rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmermanul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Zimmermanul/Restassured_test_examples/"><img width="250" title="Java Api tests on Rest-assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Zimmermanul&repo=Restassured_test_examples&theme=buefy&border_color=6A54DF&title_color=6A54DF&text_color=20793B&icon_color=6A54DF&show_icons=false" alt="mobile-browserstack"></a>
 
 <h3 align="left">Contact me:</h3>
 
