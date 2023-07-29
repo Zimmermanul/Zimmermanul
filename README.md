@@ -3,7 +3,7 @@
 
 <h3 align="left">Check out my project examples:</h3>
 
-:white_check_mark: [Kotlin android mobile tests on Kaspresso](https://github.com/Zimmermanul/Android-Kaspresso-Mobile-Tests)
+:white_check_mark: [Kotlin Android mobile tests on Kaspresso](https://github.com/Zimmermanul/Android-Kaspresso-Mobile-Tests)
 
 :white_check_mark: [Allure GitLab API Integration for Auto closing Defects](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects)
 
