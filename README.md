@@ -3,7 +3,7 @@
 
 <h3 align="left">Check out my project examples:</h3>
 
-:white_check_mark: [Android mobile tests on Kaspresso with emulators and remote execution on Github Actions](https://github.com/Zimmermanul/Android-MobileTests-remote-run-on-GithubActions)
+:white_check_mark: [Android mobile tests with emulators, remote execution on Github Actions and reports](https://github.com/Zimmermanul/Android-MobileTests-remote-run-on-GithubActions)
 
 :white_check_mark: [Allure GitLab API Integration for Auto closing Defects](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects)
 
