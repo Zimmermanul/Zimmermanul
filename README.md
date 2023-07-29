@@ -8,7 +8,7 @@
 [Java api tests with rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
   [I'm an inline-style link](https://www.google.com)
 
-[Allure GitLab API Integration for Auto closing Defects](https://www.google.com)
+[Allure GitLab API Integration for Auto closing Defects]([https://www.google.com](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects)
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
