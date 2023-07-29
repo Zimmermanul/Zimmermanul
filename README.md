@@ -13,19 +13,3 @@
 
 <h3 align="left">Contact me:</h3>
 <a href="https://t.me/avadhutabrahman" target="_blank"> ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) </a> 
-/*
-<h3 align="left">My stack:</h3>
-<p align="left"> 
-  <a href="https://www.java.com/" target="_blank"> <img src="imgForReadme/java.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://gradle.org/" target="_blank"> <img src="imgForReadme/Gradle.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://junit.org/" target="_blank"> <img src="imgForReadme/JUnit5.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://www.selenium.dev/" target="_blank"> <img src="imgForReadme/Selenium.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://selenide.org/" target="_blank"> <img src="imgForReadme/Selenide.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.jenkins.io" target="_blank"> <img src="imgForReadme/Jenkins.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="http://allure.qatools.ru/" target="_blank"> <img src="imgForReadme/Allure_Report.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://qameta.io/" target="_blank"> <img src="imgForReadme/Allure_EE.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://aerokube.com/selenoid/" target="_blank"> <img src="imgForReadme/Selenoid.svg" alt="azure" width="40" height="40"/> </a> 
-  <a href="https://rest-assured.io/" target="_blank"> <img src="imgForReadme/Rest-Assured.svg" alt="azure" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="imgForReadme/Docker.svg" alt="azure" width="40" height="40"/> </a> 
-</p>
-*/
