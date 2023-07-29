@@ -3,11 +3,11 @@
 
 <h3 align="left">Check out my project examples:</h3>
 
-⚡ [Allure GitLab API Integration for Auto closing Defects](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects)
+:white_check_mark: [Allure GitLab API Integration for Auto closing Defects](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects)
 
-⚡ [Java web tests with multithread remote execution, notifications and reports](https://github.com/Zimmermanul/Java-web-tests-with-multithread-remote-execution-notifications-and-reports/)
+:white_check_mark: [Java web tests with multithread remote execution, notifications and reports](https://github.com/Zimmermanul/Java-web-tests-with-multithread-remote-execution-notifications-and-reports/)
 
-⚡ [Java api tests with rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
+:white_check_mark: [Java api tests with rest-assured](https://github.com/Zimmermanul/Restassured_test_examples/)
 
 
 <h3 align="left">My stack:</h3>
