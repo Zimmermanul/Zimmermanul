@@ -5,7 +5,7 @@
 
 :white_check_mark: [Android mobile tests with emulators, remote execution on Github Actions and reports](https://github.com/Zimmermanul/Android-MobileTests-remote-run-on-GithubActions)
 
-:white_check_mark: [Allure GitLab API Integration for Auto closing Defects](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects)
+:white_check_mark: [Allure-GitLab test framework API Integration for Auto closing Defects](https://github.com/Zimmermanul/Allure-GitLab-API-Integration-for-Auto-closing-Defects)
 
 :white_check_mark: [Java Web tests with multithread remote execution, notifications and reports](https://github.com/Zimmermanul/Java-web-tests-with-multithread-remote-execution-notifications-and-reports/)
 
